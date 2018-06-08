@@ -1,3 +1,3 @@
 # company
-strona treningowa - do nauki poniższych technologii <br>
-wykorzystane technologie HTML5 / CSS3 /biblioteka JQuery
+Strona treningowa - do nauki poniższych technologii. <br>
+Wykorzystane technologie HTML5 / CSS3 /biblioteka JQuery.
