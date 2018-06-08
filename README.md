@@ -1,2 +1,2 @@
 # company
-# wykorzystane technologie HTML5 / CSS3 /biblioteka JQuery
+wykorzystane technologie HTML5 / CSS3 /biblioteka JQuery
