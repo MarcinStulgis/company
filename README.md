@@ -7,7 +7,7 @@ This project was created to learn the following technologies.
 Project is created with:
 * HTML 5
 * CSS 3
-* JQuery library version: 3.2.1
+* jQuery library version: 3.2.1
 
 ## Plugins
 * Slick [http://kenwheeler.github.io/slick]
