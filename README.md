@@ -17,3 +17,6 @@ Project is created with:
 
 ## Inspiration
 Project inspired by Jakub Jurkian, based on [https://jakubjurkian.pl/pelny/webmaster-krok-po-kroku/]
+
+## Live
+[https://marcinstulgis.github.io/company/]
